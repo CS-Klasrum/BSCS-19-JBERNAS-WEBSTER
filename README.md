@@ -11,6 +11,7 @@ This Webster is all about programming and also related to computer.
 ## Up and Running
 -install python 3.5 and above to your pc
 -run this python file to your python IDE
+-This project also is under updating. Please be patient to using it. 
 
 ## References
 - https://youtu.be/_lSNIrR1nZU
