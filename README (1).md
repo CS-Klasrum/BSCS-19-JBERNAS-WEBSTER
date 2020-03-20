@@ -1,6 +1,6 @@
-# {Project Title}
+# WEBSTER PROGRAMMING
 
-Webster Programming
+This Webster is all about programming and also related to computer.
 
 ## Started by
 - Jherico S. Bernas Batch (2019-2020)
