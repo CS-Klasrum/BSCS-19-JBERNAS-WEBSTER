@@ -10,7 +10,7 @@ Webster Programming
 
 ## Up and Running
 -install python 3.5 and above to your pc
--run this .py to python IDE
+-run this python file to your python IDE
 
 ## References
 - https://youtu.be/_lSNIrR1nZU
